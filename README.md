@@ -1,5 +1,5 @@
-# ACM
-Code for TGRS paper: <u>*Abandoned Cropland Mapping with Phenology Enhanced Change Vector Analysis and Semi-Supervised Learning in Different Cropping Intensity Areas*</u>
+# Abandoned Cropland Mapping with Phenology Enhanced Change Vector Analysis and Semi-Supervised Learning in Different Cropping Intensity Areas 
+Code for TGRS paper: <u>*Abandoned Cropland Mapping with Phenology Enhanced Change Vector Analysis and Semi-Supervised Learning in Different Cropping Intensity Areas*</u>.
 
 <img src="./figures/Samples.jpg">
 
